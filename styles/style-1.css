@@ -1,0 +1,13 @@
+p{
+	color: red;
+	width: 500px
+	border: 1px solid black;
+}
+
+#part1:hover {
+	color: blue;
+}
+
+li {
+	color: green;
+}
